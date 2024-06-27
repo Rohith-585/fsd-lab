@@ -1,0 +1,49 @@
+exp 1
+
+git init
+git status
+git add one.html
+git status
+git config --global user.email "rohithreddy5455@gmail.com"
+git config --global user.username "Rohith-585"
+git commit -m
+$ git commit -m "one file is added"
+$ git remote add origin https://github.com/Rohith-585/gitexper.git
+ git push -u origin master
+
+exp 12
+
+python --version
+py -m pip install -user virtualenv
+py -m venv (anyname)
+.\(anyname)\scripts\activate
+pip install django
+py -m django --version
+django -admin startproject first
+cd first
+py manage.py runserver
+
+exp 9
+npm i -g @angular/cli
+ng --version
+ng new pro9
+cd pro9
+ng g c header
+ng g c profile
+ng g c home
+ng serve
+
+
+exp 11
+npm i -g create-react-app npx
+npx create-react-app spa
+cd spa
+npm install react-router-dom react-bootstrap bootstrap
+npm start
+
+
+
+
+
+
+
